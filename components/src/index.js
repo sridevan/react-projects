@@ -7,7 +7,7 @@ const App = () => {
     return (
         <div className="ui container comments">
             <CommentDetail author="Gana"/> 
-            <CommentDetail author="Krishna"/> 
+            <CommentDetail author="Gree"/> 
             <CommentDetail author="Nagen"/>    
         </div>
     );
